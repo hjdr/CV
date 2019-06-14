@@ -1,6 +1,6 @@
-## Your Name
+## Harry Riley
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Conscientious and ambitious, with over eight years’ experience in large-scale IT integration, business transformation and product conception-to-market penetration projects. A proven track record of ensuring project delivery within budget, time and scope through strong team-building, disciplined organisation and management of key controls. Integrates well in a team environment and works efficiently with initiative, while constantly striving to exceed stakeholder expectations.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 to Sep 219)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+#### C# Programming - Kensington Collage (2018)
+#### Prince2 Practitioner (2015)
+#### TCAT College (2006 to 2008)
+- BTEC National in Business Studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Company Name** (2016 to present)    
+*Co-Founder & Programme Manager*  
+**Fidelity Information Services (FIS)** (2015 to 2016)   
+*Senior Consultant*
+**IBM Ecosystem Partner** (2015 to 2015)   
+*Project Manager*  
